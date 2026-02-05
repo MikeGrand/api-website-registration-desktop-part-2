@@ -1,0 +1,27 @@
+C:\Users\guill\source\repos\Registro\Registro\bin\Debug\Registro.exe.config
+C:\Users\guill\source\repos\Registro\Registro\bin\Debug\Registro.exe
+C:\Users\guill\source\repos\Registro\Registro\bin\Debug\Registro.pdb
+C:\Users\guill\source\repos\Registro\Registro\obj\Debug\Registro.csproj.AssemblyReference.cache
+C:\Users\guill\source\repos\Registro\Registro\obj\Debug\Registro.Form1.resources
+C:\Users\guill\source\repos\Registro\Registro\obj\Debug\Registro.Properties.Resources.resources
+C:\Users\guill\source\repos\Registro\Registro\obj\Debug\Registro.csproj.GenerateResource.cache
+C:\Users\guill\source\repos\Registro\Registro\obj\Debug\Registro.csproj.CoreCompileInputs.cache
+C:\Users\guill\source\repos\Registro\Registro\obj\Debug\Registro.exe
+C:\Users\guill\source\repos\Registro\Registro\obj\Debug\Registro.pdb
+C:\Users\guill\source\repos\Registro\Registro\bin\Debug\Newtonsoft.Json.dll
+C:\Users\guill\source\repos\Registro\Registro\bin\Debug\Newtonsoft.Json.xml
+C:\Users\guill\source\repos\Registro\Registro\obj\Debug\Registro.exe.config
+C:\Users\guill\source\repos\Registro\Registro\obj\Debug\Registro.csproj.Up2Date
+C:\Users\crist\Desktop\Universidad tareas y trabajos\10 semestre\ULTIMA MATERIA\Registro\Registro\Registro\bin\Debug\Registro.exe.config
+C:\Users\crist\Desktop\Universidad tareas y trabajos\10 semestre\ULTIMA MATERIA\Registro\Registro\Registro\bin\Debug\Registro.exe
+C:\Users\crist\Desktop\Universidad tareas y trabajos\10 semestre\ULTIMA MATERIA\Registro\Registro\Registro\bin\Debug\Registro.pdb
+C:\Users\crist\Desktop\Universidad tareas y trabajos\10 semestre\ULTIMA MATERIA\Registro\Registro\Registro\bin\Debug\Newtonsoft.Json.dll
+C:\Users\crist\Desktop\Universidad tareas y trabajos\10 semestre\ULTIMA MATERIA\Registro\Registro\Registro\bin\Debug\Newtonsoft.Json.xml
+C:\Users\crist\Desktop\Universidad tareas y trabajos\10 semestre\ULTIMA MATERIA\Registro\Registro\Registro\obj\Debug\Registro.csproj.AssemblyReference.cache
+C:\Users\crist\Desktop\Universidad tareas y trabajos\10 semestre\ULTIMA MATERIA\Registro\Registro\Registro\obj\Debug\Registro.Form1.resources
+C:\Users\crist\Desktop\Universidad tareas y trabajos\10 semestre\ULTIMA MATERIA\Registro\Registro\Registro\obj\Debug\Registro.Properties.Resources.resources
+C:\Users\crist\Desktop\Universidad tareas y trabajos\10 semestre\ULTIMA MATERIA\Registro\Registro\Registro\obj\Debug\Registro.csproj.GenerateResource.cache
+C:\Users\crist\Desktop\Universidad tareas y trabajos\10 semestre\ULTIMA MATERIA\Registro\Registro\Registro\obj\Debug\Registro.csproj.CoreCompileInputs.cache
+C:\Users\crist\Desktop\Universidad tareas y trabajos\10 semestre\ULTIMA MATERIA\Registro\Registro\Registro\obj\Debug\Registro.csproj.Up2Date
+C:\Users\crist\Desktop\Universidad tareas y trabajos\10 semestre\ULTIMA MATERIA\Registro\Registro\Registro\obj\Debug\Registro.exe
+C:\Users\crist\Desktop\Universidad tareas y trabajos\10 semestre\ULTIMA MATERIA\Registro\Registro\Registro\obj\Debug\Registro.pdb
