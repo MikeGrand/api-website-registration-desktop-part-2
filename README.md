@@ -28,3 +28,30 @@ Toda la comunicación se realiza mediante peticiones HTTP hacia un servicio back
 
 http://localhost/serv/index.php
 
+## Arquitectura del Sistema
+
+El sistema está dividido en dos componentes principales:
+
+Cliente de Escritorio (Frontend)
+
+- Desarrollado en C#
+
+- Framework: .NET Windows Forms
+
+- Consumo de API con HttpClient
+
+- Deserialización JSON con Newtonsoft.Json
+
+- Interfaz moderna con diseño oscuro personalizado
+
+API REST (Backend)
+
+- PHP
+
+- MySQL
+
+- Respuestas en formato JSON
+
+- Control por parámetro tipo
+
+- Protección mediante clave (llave)
