@@ -94,40 +94,5 @@ Proceso interno:
 - Envía petición con HttpClient
 
 Recarga DataGridViewLógica del Sistema
-🔄 Consulta Automática al Iniciar
 
-Cuando el formulario carga (Form1_Load):
 
-Se bloquea edición manual del DataGridView
-
-Se configura selección completa de filas
-
-Se ejecuta automáticamente btnConsultaAsync()
-
-Se cargan los registros desde la API
-
-➕ Crear Registro
-
-Método: btnAcrear()
-
-Validaciones:
-
-No permite campos vacíos
-
-Envía datos a la API
-
-Refresca automáticamente la tabla
-
-Limpia campos
-
-Muestra mensaje de éxito o error
-
-Proceso interno:
-
-Captura datos de los TextBox
-
-Construye URL dinámica
-
-Envía petición con HttpClient
-
-Recarga DataGridView
