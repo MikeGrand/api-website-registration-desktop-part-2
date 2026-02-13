@@ -23,3 +23,8 @@ No se incluyen datos reales por motivos de seguridad.
 1. Importar el archivo SQL en MySQL
 2. Configurar la URL de la API
 3. Ejecutar el cliente
+
+Toda la comunicación se realiza mediante peticiones HTTP hacia un servicio backend alojado en:
+
+http://localhost/serv/index.php
+
