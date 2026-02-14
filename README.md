@@ -115,6 +115,22 @@ ValidarIdEnTabla(string idBuscado)
 
 Este método recorre el DataGridView y confirma que el ID exista antes de enviar la petición al servidor.
 
+## Eliminar Registro
+
+Método: btnEliminar()
+
+Incluye:
+
+- Validación de ID
+
+- Confirmación con MessageBox
+
+- Verificación de existencia del ID
+
+- Actualización automática de tabla
+
+- Previene eliminación accidental mediante confirmación del usuario.
+
 Método: btnAcrear()
 
 Validaciones:
