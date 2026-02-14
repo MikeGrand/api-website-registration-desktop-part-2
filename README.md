@@ -95,6 +95,26 @@ Proceso interno:
 
 - Recarga DataGridView
 
+## Modificar Registro
+
+Método: btnModificar()
+
+Validaciones avanzadas:
+
+- ID obligatorio
+
+- Verifica que el ID exista en la tabla
+
+- No permite campos vacíos
+
+- Refresca tabla automáticamente
+
+Incluye método auxiliar:
+
+ValidarIdEnTabla(string idBuscado)
+
+Este método recorre el DataGridView y confirma que el ID exista antes de enviar la petición al servidor.
+
 Método: btnAcrear()
 
 Validaciones:
